@@ -2,7 +2,7 @@
 layout: post
 title: ทดสอบภาษาไทย
 image: img/testimg-cover.jpg
-author: Ghost
+author: Wit
 date: 2018-09-30T07:03:47.149Z
 tags: 
   - Tests
